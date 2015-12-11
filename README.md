@@ -21,10 +21,10 @@ Note: “severity_type” is a feature extracted from the log files (in severity
 
 
 ##Project files
-data_explorer.ipynb - exploratory data analysis of the data provided for the competition with a simple neural network at the end.
+* [data_explorer.ipynb - exploratory data analysis of the data provided for the competition with a simple neural network at the end](https://github.com/nikogamulin/kaggle-telstra-network-disruptions/blob/master/data_explorer.ipynb)
 
 ##References
-[Predict service faults on Australia's largest telecommunications network](https://www.kaggle.com/c/telstra-recruiting-network)
-[t-SNE](https://lvdmaaten.github.io/tsne/)
-[Keras (Python Deep Learning Library)](https://github.com/fchollet/keras)
+* [Predict service faults on Australia's largest telecommunications network](https://www.kaggle.com/c/telstra-recruiting-network)
+* [t-SNE](https://lvdmaaten.github.io/tsne/)
+* [Keras (Python Deep Learning Library)](https://github.com/fchollet/keras)
 
